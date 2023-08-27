@@ -36,7 +36,8 @@ A clone of Olx website where you can post your own advertisement of your product
 * Register Using a Username and email of your choice and enter you 10 digit phone number ( in case your email or phone number is not in valid format it will return a message saying the format is invalid )
 * On the All Products page you can see all the ads that are uploaded by the user.
 
-![image](https://user-images.githubusercontent.com/84044819/177146347-5ab900fe-f927-4762-8359-b1d5d30a8393.png)
+![image](https://github.com/arsh-v/OLX-clone/assets/84044819/6928cdd8-b8da-488f-8613-e5ec2b38716e)
+
 
 * If you cant find your product you can search from the search bar , just enter the name of your product that you are looking for and choose your budget range and hit search button.
 
