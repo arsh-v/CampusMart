@@ -1,4 +1,4 @@
-# Olx
+![image](https://github.com/arsh-v/OLX-clone/assets/84044819/f70e6e2d-fc2e-4ab6-98ce-288f5f80d139)# Olx
 
 ## Introduction
 
@@ -25,8 +25,7 @@ A clone of Olx website where you can post your own advertisement of your product
 ## How to get started ?
 
 * Visit my Olx website 
-
-![image](https://user-images.githubusercontent.com/84044819/177142504-95d1ca1b-87d7-46cf-bb9d-507c508c472c.png)
+![image](https://github.com/arsh-v/OLX-clone/assets/84044819/e584f19c-7e2b-45a1-8062-0f0df605dfc2)
 
 * Here you can find couple of options , first you have to register - choose your password and Username and type in your email-Id. You may register by clicking on the Get Started Button or By clicking the button register on the Navbar , If you Just want to log in You may click either on Login Button instead.
 
